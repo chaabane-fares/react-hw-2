@@ -1,0 +1,31 @@
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12rem;
+    border-radius: 15px;
+}
+.banner .icon{
+    display: flex;
+    gap: 1rem;
+    width: 2rem;
+}
+.banner .icon img{
+    width: 0.8rem;
+    margin-left: 1rem;
+}
+.banner .icon h3{
+    font-size: 0.9rem;
+}
+.banner .note{
+    display: flex;
+    gap: 1rem;
+}
+
+.banner .note .per-cent{
+    color: #A9A5A6;
+}
+.banner .note .the-note{
+    font-weight: 600;
+    color: #394051;
+}
