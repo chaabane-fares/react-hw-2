@@ -1,5 +1,4 @@
 .container{
-    background-color:#4C37F4;
     width: 15rem;
     padding: 1rem;
     border-radius: 25px;
@@ -8,9 +7,11 @@
     justify-content: center;
     align-items: center;
     color: white;
+    background-image: linear-gradient(to bottom , #6743FF, #312CEA);
+
 }
 .container .your-score{
-    background-color:#4927D2;
+    background-image: linear-gradient(to bottom , #4C23CA,#4633ED);
     width: 7rem;
     height: 7rem;
     border-radius: 90px;

@@ -2,7 +2,7 @@ import './App.css';
 import Result from './Components/Result'
 import Summary from './Components/Summary'
 
-function App() {
+export default function App() {
   return (
     <div className="App">
       <div className='left'>
@@ -18,4 +18,4 @@ function App() {
   );
 }
 
-export default App;
+
